@@ -10,6 +10,6 @@ Files
 
 2. CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-3. Script.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+3. Run_Analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
 4. The output of the 5th step is called tidy.txt, and uploaded in the course project's form.
